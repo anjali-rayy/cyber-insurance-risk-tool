@@ -1,0 +1,121 @@
+,count
+action.hacking.variety.Unknown,1876
+action.misuse.variety.Privilege abuse,1233
+action.malware.variety.Ransomware,1196
+action.physical.variety.Theft,1195
+action.hacking.variety.Exploit vuln,1066
+action.malware.variety.Backdoor or C2,1016
+action.malware.variety.Backdoor,993
+action.error.variety.Misdelivery,977
+action.hacking.variety.Backdoor,748
+action.hacking.variety.Use of stolen creds,496
+action.social.variety.Phishing,450
+action.error.variety.Loss,420
+action.error.variety.Publishing error,412
+action.error.variety.Misconfiguration,388
+action.error.variety.Disposal error,329
+action.physical.variety.Disabled controls,280
+action.physical.variety.Tampering,260
+action.misuse.variety.Possession abuse,250
+action.misuse.variety.Data mishandling,236
+action.malware.variety.C2,204
+action.physical.variety.Skimmer,199
+action.misuse.variety.Knowledge abuse,199
+action.malware.variety.Capture stored data,191
+action.malware.variety.Downloader,178
+action.malware.variety.Unknown,176
+action.hacking.variety.DoS,169
+action.hacking.variety.Brute force,155
+action.malware.variety.Spyware/Keylogger,149
+action.malware.variety.Export data,129
+action.malware.variety.Scan network,107
+action.hacking.variety.SQLi,105
+action.malware.variety.Exploit vuln,94
+action.malware.variety.Brute force,88
+action.social.variety.Pretexting,78
+action.malware.variety.Disable controls,78
+action.error.variety.Other,77
+action.error.variety.Programming error,68
+action.malware.variety.Other,66
+action.physical.variety.Bypassed controls,64
+action.misuse.variety.Unapproved hardware,63
+action.malware.variety.Rootkit,61
+action.social.variety.Bribery,60
+action.malware.variety.Capture app data,58
+action.physical.variety.Surveillance,56
+action.error.variety.Unknown,50
+action.social.variety.Extortion,49
+action.misuse.variety.Unknown,48
+action.hacking.variety.Abuse of functionality,44
+action.hacking.variety.Other,42
+action.error.variety.Gaffe,41
+action.error.variety.Malfunction,34
+action.misuse.variety.Email misuse,31
+action.physical.variety.Assault,30
+action.malware.variety.RAM scraper,27
+action.malware.variety.Destroy data,22
+action.misuse.variety.Net misuse,21
+action.hacking.variety.Forced browsing,19
+action.social.variety.Forgery,18
+action.social.variety.Unknown,17
+action.misuse.variety.Unapproved workaround,16
+action.social.variety.Influence,16
+action.physical.variety.Snooping,12
+action.social.variety.Other,11
+action.malware.variety.Password dumper,9
+action.misuse.variety.Unapproved software,9
+action.hacking.variety.Exploit misconfig,9
+action.hacking.variety.AitM,8
+action.misuse.variety.Illicit content,8
+action.misuse.variety.Snap picture,8
+action.hacking.variety.XSS,7
+action.malware.variety.Packet sniffer,7
+action.physical.variety.Unknown,6
+action.malware.variety.Adminware,6
+action.error.variety.Data entry error,6
+action.error.variety.Classification error,6
+action.malware.variety.Spam,6
+action.hacking.variety.Buffer overflow,5
+action.error.variety.Maintenance error,5
+action.hacking.variety.Path traversal,5
+action.malware.variety.Trojan,5
+action.misuse.variety.Other,5
+action.hacking.variety.SSI injection,4
+action.environmental.variety.Unknown,4
+action.hacking.variety.OS commanding,4
+action.malware.variety.Client-side attack,4
+action.malware.variety.RAT,4
+action.malware.variety.Click fraud and cryptocurrency mining,4
+action.social.variety.Scam,3
+action.social.variety.Propaganda,3
+action.malware.variety.Adware,3
+action.physical.variety.Wiretapping,3
+action.hacking.variety.Profile host,3
+action.physical.variety.Destruction,3
+action.physical.variety.Connection,3
+action.malware.variety.Worm,3
+action.hacking.variety.Cryptanalysis,3
+action.error.variety.Physical accidents,3
+action.hacking.variety.URL redirector abuse,3
+action.social.variety.Elicitation,2
+action.social.variety.Baiting,2
+action.error.variety.Capacity shortage,2
+action.environmental.variety.Power failure,2
+action.error.variety.Misinformation,2
+action.environmental.variety.Fire,2
+action.malware.variety.DoS,2
+action.social.variety.Spam,2
+action.physical.variety.Other,2
+action.environmental.variety.Hurricane,1
+action.hacking.variety.Evade Defenses,1
+action.hacking.variety.Scan network,1
+action.hacking.variety.RFI,1
+action.hacking.variety.Reverse engineering,1
+action.hacking.variety.Session fixation,1
+action.malware.variety.Exploit misconfig,1
+action.environmental.variety.Humidity,1
+action.hacking.variety.Mail command injection,1
+action.hacking.variety.Session replay,1
+action.hacking.variety.Session prediction,1
+action.malware.variety.Cryptocurrency mining,1
+action.social.variety.Prompt bombing,1

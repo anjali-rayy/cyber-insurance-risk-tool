@@ -1,0 +1,31 @@
+attack_type,count,controls,rule
+action.misuse.variety.Privilege abuse,1233,C03;C14,Staff misusing access is limited by least privilege and caught by logs
+action.malware.variety.Ransomware,1196,C04;C05;C07;C08;C10,Backups allow recovery; antivirus and email filtering block it; a response plan limits damage
+action.physical.variety.Theft,1195,C11;C13,Encryption makes stolen devices unreadable; an asset list shows what is missing
+action.hacking.variety.Exploit vuln,1066,C06;C12;C13,Updates fix known holes; a firewall limits exposure; an asset list shows what needs updating
+action.malware.variety.Backdoor or C2,1016,C07;C12;C14,Antivirus detects it; a firewall blocks outside control; logs reveal it
+action.malware.variety.Backdoor,993,C07;C12;C14,Antivirus detects it; a firewall blocks outside control; logs reveal it
+action.error.variety.Misdelivery,977,C09;C11,Training reduces sending to the wrong person; encryption limits the harm
+action.hacking.variety.Backdoor,748,C06;C07;C12;C14,Updates close entry points; antivirus detects it; firewall and logs limit and reveal it
+action.hacking.variety.Use of stolen creds,496,C01;C02;C14,MFA makes stolen passwords useless; strong passwords and logs reduce misuse
+action.social.variety.Phishing,450,C01;C08;C09,Email filtering blocks it; training helps staff spot it; MFA limits the damage
+action.error.variety.Loss,420,C11;C13,Encryption protects lost devices; an asset list helps track them
+action.error.variety.Publishing error,412,C03;C09,Limited access and training reduce accidental publishing
+action.error.variety.Misconfiguration,388,C13;C15,Safe settings and an asset list prevent wrong setups
+action.error.variety.Disposal error,329,C09;C11;C13,Training and encryption protect data on discarded items; an asset list tracks them
+action.physical.variety.Disabled controls,280,C03;C14,Limited access and monitoring catch people switching off protections
+action.physical.variety.Tampering,260,C13;C14,Knowing your devices and monitoring them reveals tampering
+action.misuse.variety.Possession abuse,250,C03;C11;C14,"Limited access, encryption and logs reduce taking or using data wrongly"
+action.misuse.variety.Data mishandling,236,C03;C09;C11,"Limited access, training and encryption reduce careless handling"
+action.malware.variety.C2,204,C07;C12;C14,Antivirus detects it; a firewall blocks outside control; logs reveal it
+action.physical.variety.Skimmer,199,C13;C14,Checking payment devices regularly reveals fitted skimmers
+action.misuse.variety.Knowledge abuse,199,C03;C14,Limited access and logs reduce misuse of inside knowledge
+action.malware.variety.Capture stored data,191,C06;C07;C11,Antivirus blocks it; updates close holes; encryption protects stored data
+action.malware.variety.Downloader,178,C07;C08;C09,"Antivirus, email filtering and training stop harmful downloads"
+action.hacking.variety.DoS,169,C12;C16,A firewall and a trusted provider help absorb overload attacks
+action.hacking.variety.Brute force,155,C01;C02;C12,MFA and strong passwords defeat guessing; a firewall limits attempts
+action.malware.variety.Spyware/Keylogger,149,C01;C07;C08;C09,Antivirus and email filtering block it; MFA limits stolen passwords
+action.malware.variety.Export data,129,C07;C11;C12;C14,"Antivirus, firewall and logs stop or reveal data leaving; encryption limits harm"
+action.malware.variety.Scan network,107,C12;C14,A firewall and monitoring limit and reveal network scanning
+action.hacking.variety.SQLi,105,C06;C12,Updated web software and a firewall block this attack
+action.malware.variety.Exploit vuln,94,C06;C07,Updates fix the hole; antivirus detects the attack
